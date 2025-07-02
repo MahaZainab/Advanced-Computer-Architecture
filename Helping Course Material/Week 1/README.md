@@ -98,3 +98,4 @@ Speedup = 1 / [(1 - f) + (f / s)]
 **Example**:  
 If 60% of a task is sped up 3×:
 
+Speedup = 1 / (0.4 + 0.6/3) = 1 / 0.6 ≈ 1.67× overall speedup
