@@ -92,3 +92,9 @@ Determines the maximum speedup possible from improving part of a system.
 Speedup = 1 / [(1 - f) + (f / s)]
 
 
+- `f` = fraction of the task affected by the improvement  
+- `s` = speedup of the improved portion
+
+**Example**:  
+If 60% of a task is sped up 3×:
+
