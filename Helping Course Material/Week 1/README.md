@@ -89,3 +89,4 @@ Determines the maximum speedup possible from improving part of a system.
 
 **Formula**:  
 
+Speedup = 1 / [(1 - f) + (f / s)]
