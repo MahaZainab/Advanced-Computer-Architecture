@@ -99,3 +99,62 @@ Speedup = 1 / [(1 - f) + (f / s)]
 If 60% of a task is sped up 3×:
 
 Speedup = 1 / (0.4 + 0.6/3) = 1 / 0.6 ≈ 1.67× overall speedup
+
+
+> Highlights diminishing returns on optimization.
+
+---
+
+### ✅ 7. Benchmarks
+
+**Definition**:  
+Standardized tests to evaluate and compare system performance.
+
+**Examples**:
+
+| Benchmark    | Focus                        |
+|--------------|------------------------------|
+| SPEC CPU     | CPU and memory performance   |
+| Geekbench    | General CPU/GPU workloads    |
+| Linpack      | Floating-point performance   |
+| PCMark       | Desktop application tasks    |
+
+> Always choose benchmarks that resemble your actual workload.
+
+---
+
+## 📈 Summary Table
+
+| Metric         | Formula                                      | Meaning                                |
+|----------------|-----------------------------------------------|----------------------------------------|
+| Execution Time | (Instructions × CPI) / Clock Rate             | Total runtime                          |
+| CPI            | CPU Cycles / Instruction Count                | Efficiency of instruction execution    |
+| IPC            | Instruction Count / CPU Cycles = 1 / CPI      | Instructions per clock cycle           |
+| MIPS           | Instruction Count / (Execution Time × 10⁶)    | Rate of execution in millions/sec      |
+| Cycle Time     | 1 / Clock Rate                                | Time taken for one cycle               |
+| Amdahl’s Law   | 1 / [(1 - f) + f/s]                           | Projected speedup from optimization    |
+
+---
+
+## 🎯 Key Takeaways
+
+- **Execution time** reflects user experience.
+- **CPI/IPC** reveal how well the CPU utilizes cycles.
+- **MIPS** gives basic throughput—but with limitations.
+- **Amdahl’s Law** helps assess how much optimization is worth.
+- **Benchmarks** provide real-world performance data.
+
+---
+
+## 📂 Additional Resources
+
+- [Exercises](./exercises.md)  
+- [Solutions](./solutions/)  
+- [Tools Demo](./tools-demo/) – Examples using `perf`, `CPU-Z`, etc.
+
+---
+
+✅ **Next Topic Preview**:  
+→ [Instruction-Level Parallelism (ILP)](../topic-02-ilp/README.md)
+
+Ready to practice? Jump to [`exercises.md`](./exercises.md).
