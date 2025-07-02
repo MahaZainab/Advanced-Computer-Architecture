@@ -136,7 +136,7 @@ Standardized tests to evaluate and compare system performance.
 
 ---
 
-## 🎯 Key Takeaways
+##  Key Takeaways
 
 - **Execution time** reflects user experience.
 - **CPI/IPC** reveal how well the CPU utilizes cycles.
