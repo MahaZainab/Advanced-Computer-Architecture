@@ -60,3 +60,18 @@ Average number of instructions executed per CPU cycle.
 **Formula**:  
 
 IPC = Instruction Count / Total CPU Cycles = 1 / CPI
+
+
+> Higher IPC means better instruction throughput per cycle.
+
+---
+
+### ✅ 5. Clock Rate & Cycle Time
+
+**Definition**:  
+- **Clock Rate**: Number of cycles per second (Hz).
+- **Cycle Time**: Duration of a single clock cycle.
+
+**Formulas**:  
+
+
