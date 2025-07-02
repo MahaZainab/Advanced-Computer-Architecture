@@ -12,3 +12,6 @@ This topic introduces and explains the essential metrics used to evaluate and op
 The total time a program takes to run from start to finish.
 
 **Formula**:  
+
+Execution Time = (Instruction Count × CPI) / Clock Rate
+
