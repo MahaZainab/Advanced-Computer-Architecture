@@ -32,3 +32,16 @@ Average number of clock cycles required to execute one instruction.
 **Formula**:  
 
 CPI = Total Clock Cycles / Instruction Count
+
+
+> A lower CPI generally reflects a more efficient processor architecture.
+
+---
+
+### ✅ 3. MIPS – Million Instructions Per Second
+
+**Definition**:  
+Measures the number of instructions executed per second (in millions).
+
+**Formula**:  
+
