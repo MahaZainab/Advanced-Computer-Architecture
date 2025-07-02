@@ -78,3 +78,14 @@ Clock Rate = 1 / Cycle Time
 Cycle Time = 1 / Clock Rate
 
 
+> Faster clock rate = more operations per second, but architecture efficiency also matters.
+
+---
+
+### ✅ 6. Amdahl’s Law
+
+**Definition**:  
+Determines the maximum speedup possible from improving part of a system.
+
+**Formula**:  
+
