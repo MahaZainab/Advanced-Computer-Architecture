@@ -48,3 +48,14 @@ Measures the number of instructions executed per second (in millions).
 MIPS = Instruction Count / (Execution Time × 10^6)
 
 
+> ⚠️ MIPS can be misleading across different architectures or programs with varying instruction complexity.
+
+---
+
+### ✅ 4. IPC – Instructions Per Cycle
+
+**Definition**:  
+Average number of instructions executed per CPU cycle.
+
+**Formula**:  
+
