@@ -31,3 +31,4 @@ Average number of clock cycles required to execute one instruction.
 
 **Formula**:  
 
+CPI = Total Clock Cycles / Instruction Count
