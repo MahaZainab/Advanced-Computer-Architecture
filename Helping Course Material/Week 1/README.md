@@ -76,3 +76,5 @@ IPC = Instruction Count / Total CPU Cycles = 1 / CPI
 
 Clock Rate = 1 / Cycle Time
 Cycle Time = 1 / Clock Rate
+
+
