@@ -1,9 +1,4 @@
 
----
-
-### 📄 `exercises.md`
-
-```markdown
 # 📝 Topic 01: Exercises – Performance Metrics
 
 ## 📌 Q1. Execution Time
