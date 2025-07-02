@@ -15,3 +15,19 @@ The total time a program takes to run from start to finish.
 
 Execution Time = (Instruction Count × CPI) / Clock Rate
 
+
+- **Instruction Count**: Number of instructions executed.
+- **CPI**: Cycles per instruction.
+- **Clock Rate**: Processor speed (e.g., 2 GHz = 2 × 10⁹ Hz).
+
+> Lower execution time indicates better performance.
+
+---
+
+### ✅ 2. CPI – Cycles Per Instruction
+
+**Definition**:  
+Average number of clock cycles required to execute one instruction.
+
+**Formula**:  
+
