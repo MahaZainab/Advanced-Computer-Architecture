@@ -59,3 +59,4 @@ Average number of instructions executed per CPU cycle.
 
 **Formula**:  
 
+IPC = Instruction Count / Total CPU Cycles = 1 / CPI
