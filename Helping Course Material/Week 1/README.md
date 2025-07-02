@@ -45,3 +45,6 @@ Measures the number of instructions executed per second (in millions).
 
 **Formula**:  
 
+MIPS = Instruction Count / (Execution Time × 10^6)
+
+
