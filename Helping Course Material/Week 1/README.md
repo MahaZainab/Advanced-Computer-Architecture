@@ -157,4 +157,4 @@ Standardized tests to evaluate and compare system performance.
 ✅ **Next Topic Preview**:  
 → [Instruction-Level Parallelism (ILP)](../topic-02-ilp/README.md)
 
-Ready to practice?? Jump to [`exercises.md`](./exercises.md).
+Ready to practice??? Jump to [`exercises.md`](./exercises.md).
